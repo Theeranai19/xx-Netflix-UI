@@ -1,0 +1,16 @@
+App{
+    display: flex;
+    flex-direction: column;
+    width: 100vh;
+    height: 100vh;
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    background:
+        linear-gradient(rgba(0, 0, 0, 1), rgba(1, 1, 1, 0), rgba(0, 0, 0, 1)),
+        url(https://assets.nflxext.com/ffe/siteui/vlv3/d282a426-b01a-424c-9b83-2c2445e4b61a/18ea2d77-3667-44c5-90d6-e807d8ea8478/TH-en-20230626-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+}
+hr{
+    border: 4px solid rgb(50, 50, 50);
+}
